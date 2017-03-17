@@ -230,5 +230,4 @@ pip-log.txt
 #Temponary backup
 *~
 *.bphys
-AnimationRenders/Test1/
-AnimationRenders/Test2/
+AnimationRenders/
